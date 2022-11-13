@@ -14,7 +14,9 @@ I am currently at DeepMind making *large language models* a reality in everyday 
 
 ### Research interests
 I am broadly interested in **reasoning from perception**, **few-shot learning** and **multimodal representations**. <br />
-AMA about: object and pose recognition, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, neural retrievers, vision and language, self-supervised learning, video (audio) understanding, 3D vision, sensor fusion, Auto & edge ML.  
+
+Topics: object & pose recognition, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, neural retrievers, vision and language, self-supervised learning, video (audio) understanding, 3D vision, sensor fusion, AutoML, Edge/efficient ML.  
+
 <!-- 2. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 4. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
