@@ -12,10 +12,6 @@ Hi! This is Jason - AI researcher, full-stack engineer, and tech entrepreneur.
 
 I'm currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IoT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
 
-## Getting in touch ##
-<!-- ====== -->
-1. Submit a pull request [here](https://github.com/jaxball/jaxball.github.io/) 
-
 <!-- 2. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 4. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
