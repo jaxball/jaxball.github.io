@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason Lin"
+title                    : "Linpossible."
 title_separator          : "-"
 name                     : &name "Jason Lin"
 description              : &description "AI Researcher at DeepMind"
