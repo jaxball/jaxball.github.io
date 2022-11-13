@@ -13,7 +13,7 @@ Hi! This is Jason - AI researcher, full-stack engineer, and tech entrepreneur.
 I am currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IoT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
 
 ### Research interests
-I am broadly interested in **reasoning from perception**, **few-shot learning** and **multimodal representations**. <br />
+I am broadly interested in _reasoning from perception_, _few-shot learning_ and _multimodal representations_. <br />
 
 <!-- Topics: object & pose recognition, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, neural retrievers, vision and language, self-supervised learning, video (audio) understanding, 3D vision, sensor fusion, AutoML, Edge/efficient ML.   -->
 
