@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jason - AI researcher, full-stack engineer, and tech entrepreneur. 
+Hi! This is Jason - AI researcher, full-stack engineer, and tech entrepreneur. 
 
 I'm currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that operating systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent Labs. In my spare time, I take theoretical classes from Stanford University and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IOT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
 
