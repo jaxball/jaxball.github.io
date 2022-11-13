@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason Lin's Homepage"
+title                    : "Jason Lin"
 title_separator          : "-"
-name                     : &name "Jason Lin"
+name                     : &name "Jason J. Lin"
 description              : &description "AI Researcher at DeepMind"
 url                      : https://jaxball.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jason Lin"
   avatar           : "profile.png"
-  bio              : "AI Researcher, visiting scientist at MIT"
-  location         : "San Francisco, CA"
-  employer         : "DeepMind"
+  bio              : "Researcher @DeepMind, visiting scientist @MIT"
+  location         : "San Francisco"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7ju8fa4AAAAJ"
   email            :
