@@ -10,8 +10,11 @@ redirect_from:
 
 Hi! This is Jason - AI researcher, full-stack engineer, and tech entrepreneur. 
 
-I'm currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IoT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
+I am currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IoT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
 
+### Research interests
+I am broadly interested in **reasoning from perception**, **few-shot learning** and **multimodal representations**. <br />
+AMA about: object detection, 3D vision, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, AutoML, vision and language.  
 <!-- 2. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 4. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -20,4 +23,4 @@ I'm currently at DeepMind making *large language models* a reality in everyday l
 7. Check status by going to the repository settings, in the "GitHub pages" section
  -->
 
-##### **Fun fact**: I've lived in many places: New York, Los Angeles, San Francisco, London, Hong Kong, Beijing, Atlanta, Philadelphia, San Jose, Palo Alto, Shenzhen. In my spare time, I enjoy exploring new places and indulging in philosophy.
+_**Fun fact**: I have lived in many places: New York, Los Angeles, San Francisco, London, Hong Kong, Beijing, Atlanta, Philadelphia, San Jose, Palo Alto, Shenzhen. In my spare time, I enjoy exploring new places and indulging in philosophy._
