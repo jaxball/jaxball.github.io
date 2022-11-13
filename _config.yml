@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason Lin"
+title                    : "Jason J. Lin"
 title_separator          : "-"
 name                     : &name "Jason J. Lin"
 description              : &description "AI Researcher at DeepMind"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jason Lin"
   avatar           : "profile.png"
-  bio              : "Researcher @DeepMind, visiting scientist @MIT"
-  location         : "San Francisco"
+  bio              : "Researcher @ DeepMind, Visiting Scientist @ MIT"
+  location         : "San Francisco, CA"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7ju8fa4AAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/thejlin"
+  linkedin         : "thejlin"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
