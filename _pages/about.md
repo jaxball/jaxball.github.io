@@ -20,4 +20,4 @@ I'm currently at DeepMind making *large language models* a reality in everyday l
 7. Check status by going to the repository settings, in the "GitHub pages" section
  -->
 
-**Fun fact**: I've been fortunate to live in many places: New York, Los Angeles, San Francisco, London, Hong Kong, Beijing,, Atlanta, Philadelphia, San Jose, Palo Alto, Shenzhen. In my spare time, I enjoy hiking outdoors, exploring new places and indulging in philosophy.
+_**Fun fact**: I've lived in many places: New York, Los Angeles, San Francisco, London, Hong Kong, Beijing, Atlanta, Philadelphia, San Jose, Palo Alto, Shenzhen. In my spare time, I enjoy hiking outdoors, exploring new places and indulging in philosophy._
