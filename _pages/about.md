@@ -16,7 +16,7 @@ I am currently at DeepMind making *large language models* a reality in everyday 
 I am broadly interested in _reasoning from perception and language_, _few-shot learning_ and _multimodal representations_. <br />
 
 ### Upcoming 
-Papers coming soon: self-supervised transformer multimodal attention, composition-aware captions for diffusion models, red-teaming language models, neural retrievers domain adaption, RL finetuning for Question-Answering. Feel free to reach out at jj0 [at] stanford [dot] edu.
+Publications: self-supervised transformer attention, composition-aware captions for diffusion models, red-teaming language models, neural retrievers domain adaption, RL finetuning for Question-Answering. Feel free to reach out at jj0 [at] stanford [dot] edu.
 
 <!-- Topics: object & pose recognition, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, neural retrievers, vision and language, self-supervised learning, video (audio) understanding, 3D vision, sensor fusion, AutoML, Edge/efficient ML.   -->
 
