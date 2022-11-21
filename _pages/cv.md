@@ -15,7 +15,7 @@ Education
 * M.S. Computer Science, Georgia Institute of Technology
 * SCPD. Computational Mathematics, Stanford University (present)
 
-Coursework: Differential Equations and Fourier Methods, Programming Languages, Probabilistic Graphical Models, Natural Language Processing, Meta Learning, Reinforcement Learning and Adaptive Control, Decision Making under Uncertainty, Advanced Computer Vision Seminar, Operating Systems, Computer Architecture, Blockchain and Cryptocurrency, Venture Management, Strategic Management, East Asian History
+Coursework: Partial Differential Equations, Programming Languages, Probabilistic Graphical Models, NLP, Meta Learning, Reinforcement Learning, Robotics: Uncertainty Planning, Computer Vision seminar, Operating Systems, Blockchain & Crypto, Venture Management, Strategic Management
 
 Experience
 ======
@@ -30,7 +30,7 @@ Experience
 * 2019: AI Resident, Tidal
   * Google X, the Moonshot Factory
 
-* 2018 to 2021: Self-Driving ML Engineer 
+* 2018 to 2021: Machine Learning Engineer, Perception 
   * Lyft Level 5
 
 * 2018: Data Science Intern, Security Engineer
