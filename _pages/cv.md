@@ -83,7 +83,7 @@ Skills
 ======
 * Programming:
   * Languages: C++, C#, Python, Java, JavaScript, Swift, Objective-C, SQL, MATLAB, R, D, Coq, Haskell
-  * ML Frameworks: JAX, PyTorch, TensorFlow (Keras, TF.js, TFLite), Caffe, Fast.ai, Scikit, CUDA, HuggingFace
+  * ML frameworks: JAX, PyTorch, TensorFlow (Keras, TF.js, TFLite), Caffe, Fast.ai, Scikit, CUDA, HuggingFace
 * Design:
   * Figma
   * Adobe xD, Photoshop, Lightroom
