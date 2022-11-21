@@ -10,10 +10,13 @@ redirect_from:
 
 Hi! This is Jason - AI researcher, full-stack engineer, and tech entrepreneur. 
 
-I am currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web, mobile, IoT, algorithmic trading, VR, crypto, taking on varied deep tech interests.
+I am currently at DeepMind making *large language models* a reality in everyday life. My background is in computer vision, and before that security and systems, where I've designed and optimized algorithms at Google X, Lyft Level 5, Apple, Spotify, and Tencent. In my spare time, I take theoretical classes from Stanford and advise policy makers on AI safety. Besides machine learning, I've also dabbled with data, web/mobile, Internet of Things, algorithmic trading/quantitative finance, VR, crypto, among varied deep tech interests.
 
 ### Research interests
-I am broadly interested in _reasoning from perception_, _few-shot learning_ and _multimodal representations_. <br />
+I am broadly interested in _reasoning from perception and language_, _few-shot learning_ and _multimodal representations_. <br />
+
+### Upcoming 
+Papers coming soon: self-supervised transformer architectures, composition-aware captions for diffusion models, red-teaming language models, neural retrievers domain adaption, RL finetuning Question-Answering models. Feel free to reach out at jj0 [at] stanford [dot] edu.
 
 <!-- Topics: object & pose recognition, VQA, adversarial ML, diffusion models, domain adaptation, bayesian methods, prompt-learning, neural retrievers, vision and language, self-supervised learning, video (audio) understanding, 3D vision, sensor fusion, AutoML, Edge/efficient ML.   -->
 
