@@ -21,38 +21,38 @@ Experience
 ======
 ### Industry ###
 * 2021 to present: Research Engineer
-  * DeepMind
+  * **DeepMind**
   * collaborators: *Adria Recasens, Andrew Zisserman*
 
 * 2022: Fellow, AI Safety
-  * Stanford Existential Risk Initiative
+  * **Stanford Existential Risk Initiative**
 
 * 2019: AI Resident, Tidal
-  * Google X, the Moonshot Factory
+  * **Google X, the Moonshot Factory**
 
 * 2018 to 2021: Machine Learning Engineer, Perception 
-  * Lyft Level 5
+  * **Lyft Level 5, Self-Driving Center**
 
 * 2018: Data Science Intern, Security Engineer
-  * Spotify
+  * **Spotify NYC**
 
 * 2017 to 2018: Research Intern, Computer Vision
-  * Tencent YouTu Lab
+  * **Tencent YouTu Lab**
   * Host: *Jiaya Jia*
 
 * Summer 2016: Software Engineer Intern
-  * Apple Inc.
+  * **Apple Inc.**
 
 ### Academia ###
 * 2022: Visiting Researcher
-  * MIT CSAIL: Algorithmic Alignment Lab
+  * **MIT CSAIL: Algorithmic Alignment Lab**
 
 * 2022: Research Fellow
-  * Stanford SERI
+  * **Stanford SERI**
 
 * 2018-2019: Research Assistant
-  * Georgia Tech IRIM: Institute for Robotics & Intelligent Machines
-  * Georgia Tech Polo Club of Data Science (Human-centered AI Lab)
+  * **Georgia Tech IRIM**: Institute for Robotics & Intelligent Machines
+  * **Georgia Tech Human-centered AI Lab**: Polo Club of Data Science
 
 
 <!--   * Duties included: Tagging issues
@@ -63,7 +63,7 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-(if the dates don't add up, that's because as with Elon Musk, I work a lot - especially after hours) 
+(if the dates don't add up, that's because as with Elon Musk whom I hosted at USC, I work a lot - especially after hours) 
 
 <!-- I've practiced simultaneous-tasking since college, where I represented 2 teams in a business competition at once) -->
 
