@@ -82,9 +82,9 @@ Publications
   
 Fellowship
 ======
-* Kleiner Perkins Engineering Fellow (KPCB Fellow, [apply here](https://fellows.kleinerperkins.com/))
-* a16z Crypto, inaugural Startup School ([apply here](a16zcrypto.com/css))
-* GGV Capital, Fellow ([apply here](https://new.qq.com/rain/a/20220928A08UEE00))
+* Kleiner Perkins Engineering Fellow (KPCB Fellow, [apply](https://fellows.kleinerperkins.com/))
+* a16z Crypto, inaugural Startup School ([apply](https://a16zcrypto.com/css))
+* GGV Capital, Fellow ([apply](https://new.qq.com/rain/a/20220928A08UEE00))
 * Pear VC, Builder ([info](https://medium.com/@pearvc/pear-builders-a-community-of-seasoned-software-engineers-starting-companies-soon-1925e88ae402))
 
 Service and leadership
