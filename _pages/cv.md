@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Business Administration, University of Southern California (USC)
-* M.S. in Computer Science, Georgia Institute of Technology
+* B.S. Computer Science, Business Administration, University of Southern California (USC)
+* M.S. Computer Science, Georgia Institute of Technology
 * SCPD. Computational Mathematics, Stanford University (present)
+
+Coursework: Differential Equations and Fourier Methods, Programming Languages, Probabilistic Graphical Models, Natural Language Processing, Meta Learning, Reinforcement Learning and Adaptive Control, Decision Making under Uncertainty, Advanced Computer Vision Seminar, Operating Systems, Computer Architecture, Blockchain and Cryptocurrency, Venture Management, Strategic Management, East Asian History
 
 Experience
 ======
 ### Industry ###
 * 2021 to present: Research Engineer
   * DeepMind
-  * collaborators: *Adria Recasans, Andrew Zisserman*
+  * collaborators: *Adria Recasens, Andrew Zisserman*
 
 * 2022: Fellow, AI Safety
   * Stanford Existential Risk Initiative
@@ -43,7 +45,7 @@ Experience
 
 ### Academia ###
 * 2022: Visiting Researcher
-  * MIT CSAIL: Computer Science and Artificial Intelligence Laboratory
+  * MIT CSAIL: Algorithmic Alignment Lab
 
 * 2022: Research Fellow
   * Stanford SERI
@@ -78,19 +80,19 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* United Nations, Institute for Disarmament Research: Keynote speaker and expert panel
-* USC/UCLA COVID Hackathon, Hack for Hope: Judge panel
-* Stanford University, IEEE; Duke University, Applied Machine Learning: Guest Speaker
-* The Coding School, Head Instructor and Director of Development
-
 Fellowship
 ======
 * Kleiner Perkins Engineering Fellow (KPCB Fellow, [apply here](https://fellows.kleinerperkins.com/))
 * a16z Crypto, inaugural Startup School ([apply here](a16zcrypto.com/css))
 * GGV Capital, Fellow ([apply here](https://new.qq.com/rain/a/20220928A08UEE00))
 * Pear VC, Builder ([info](https://medium.com/@pearvc/pear-builders-a-community-of-seasoned-software-engineers-starting-companies-soon-1925e88ae402))
+
+Service and leadership
+======
+* United Nations, Institute for Disarmament Research: Keynote speaker
+* USC/UCLA COVID Hackathon, Hack for Hope: Judge panel
+* Stanford University, IEEE; Duke University, Applied Machine Learning: Guest Speaker
+* The Coding School, Head Instructor and Director of Development
 
 Teaching
 ======
