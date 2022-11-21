@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Business Administration, University of Southern California (USC)
+* B.S. in Computer Science, Business Administration, University of Southern California (USC)
 * M.S. in Computer Science, Georgia Institute of Technology
 * SCPD. Computational Mathematics, Stanford University (present)
 
-Work experience
+Experience
 ======
+### Industry ###
 * 2021 to present: Research Engineer
   * DeepMind
+  * collaborators: *Adria Recasans, Andrew Zisserman*
 
-* 2022: Research Fellow, AI Safety
+* 2022: Fellow, AI Safety
   * Stanford Existential Risk Initiative
 
 * 2019: AI Resident, Tidal
@@ -32,11 +34,24 @@ Work experience
 * 2018: Data Science Intern, Security Engineer
   * Spotify
 
-* 2017 to 2018: Research Intern (Computer Vision)
+* 2017 to 2018: Research Intern, Computer Vision
   * Tencent YouTu Lab
+  * Host: *Jiaya Jia*
 
 * Summer 2016: Software Engineer Intern
   * Apple Inc.
+
+### Academia ###
+* 2022: Visiting Researcher
+  * MIT CSAIL: Computer Science and Artificial Intelligence Laboratory
+
+* 2022: Research Fellow
+  * Stanford SERI
+
+* 2018-2019: Research Assistant
+  * Georgia Tech IRIM: Institute for Robotics & Intelligent Machines
+  * Georgia Tech Polo Club of Data Science (Human-centered AI Lab)
+
 
 <!--   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
@@ -46,9 +61,9 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-(if the dates don't add up, that's because as with Elon Musk, I work a lot - especially after hours; 
+(if the dates don't add up, that's because as with Elon Musk, I work a lot - especially after hours) 
 
-I've practiced simultaneous-tasking since college, where I represented 2 teams in a business competition at once)
+<!-- I've practiced simultaneous-tasking since college, where I represented 2 teams in a business competition at once) -->
 
 
 Publications
@@ -67,9 +82,15 @@ Service and leadership
 ======
 * United Nations, Institute for Disarmament Research: Keynote speaker and expert panel
 * USC/UCLA COVID Hackathon, Hack for Hope: Judge panel
-* Stanford University, IEEE and Duke University, Applied ML Club: Invite Speaker
-* The Coding School, Director of Development
-* CS@SC Coding Camp, Coding Coach
+* Stanford University, IEEE; Duke University, Applied Machine Learning: Guest Speaker
+* The Coding School, Head Instructor and Director of Development
+
+Fellowship
+======
+* Kleiner Perkins Engineering Fellow (KPCB Fellow, [apply here](https://fellows.kleinerperkins.com/))
+* a16z Crypto, inaugural Startup School ([apply here](a16zcrypto.com/css))
+* GGV Capital, Fellow ([apply here](https://new.qq.com/rain/a/20220928A08UEE00))
+* Pear VC, Builder ([info](https://medium.com/@pearvc/pear-builders-a-community-of-seasoned-software-engineers-starting-companies-soon-1925e88ae402))
 
 Teaching
 ======
@@ -82,8 +103,7 @@ Teaching
 Skills
 ======
 * Programming:
-  * Languages: C++, C#, Python, Java, JavaScript, Swift, Objective-C, SQL, MATLAB, R, D, Coq, Haskell
+  * Languages: C++, C#, Python, Java, JavaScript, Swift, Objective-C, SQL, MATLAB, R, Coq, Haskell
   * ML frameworks: JAX, PyTorch, TensorFlow (Keras, TF.js, TFLite), Caffe, Fast.ai, Scikit, CUDA, HuggingFace
 * Design:
-  * Figma
-  * Adobe xD, Photoshop, Lightroom
+  * Adobe Figma, xD, Photoshop, Lightroom
