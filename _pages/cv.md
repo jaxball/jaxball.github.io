@@ -63,7 +63,7 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-(if the dates don't add up, that's because as with Elon Musk whom I hosted at USC, I work a lot - especially after hours) 
+(if the dates don't add up, that's because as with Elon Musk whom I hosted at USC, I work a lot; especially after hours) 
 
 <!-- I've practiced simultaneous-tasking since college, where I represented 2 teams in a business competition at once) -->
 
